@@ -13,3 +13,7 @@ print("commit 4")
 print("commit 7")
 
 print("commit 8")
+
+print("commit 9")
+
+print("commit 10")
